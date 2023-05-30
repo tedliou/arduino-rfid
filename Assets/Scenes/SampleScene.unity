@@ -172,11 +172,7 @@ MonoBehaviour:
   serialController: {fileID: 0}
   videoPlayer: {fileID: 0}
   database: {fileID: 11400000, guid: 3b97a1fadab459b4583dbe569284bbac, type: 2}
-  table:
-  - UID: 11 EB 96 39
-    Video: {fileID: 32900000, guid: 19de8c949b94f284e8960a4df10e184b, type: 3}
-  - UID: 05 A0 5E 0C
-    Video: {fileID: 32900000, guid: 8c901077b2ee9d64ba6441180b0bc452, type: 3}
+  table: []
 --- !u!114 &748090409
 MonoBehaviour:
   m_ObjectHideFlags: 0

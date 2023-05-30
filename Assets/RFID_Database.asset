@@ -12,6 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6364c6edd786a024790db30dec29455b, type: 3}
   m_Name: RFID_Database
   m_EditorClassIdentifier: 
-  UID:
-  - 11 EB 96 39
-  - 05 A0 5E 0C
+  UID: []
